@@ -71,7 +71,7 @@ Website được thiết kế với giao diện trực quan, sang trọng (Dark 
 ![Checkout](assets/checkout.png)
 
 ## 🎥 Link video demo
-* Xem video giới thiệu và hướng dẫn thao tác hệ thống tại đây: **[Chèn link YouTube/Drive của bạn vào đây]**
+* Xem video giới thiệu và hướng dẫn thao tác hệ thống tại đây: **https://drive.google.com/file/d/1pRvq1HxDNQeJwEoXaRHwS4wQYOOSBr07/view?usp=sharing**
 
 ## 🌐 Link online đã deploy
 * Website hiện đã được đưa lên máy chủ và hoạt động trực tuyến tại: **[http://furniturestore.infinityfreeapp.com](http://furniturestore.infinityfreeapp.com)**
