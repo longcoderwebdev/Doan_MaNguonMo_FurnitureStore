@@ -8,9 +8,9 @@ Website được thiết kế với giao diện trực quan, sang trọng (Dark 
 
 | STT | Họ và Tên | MSSV | Phân công nhiệm vụ cụ thể |
 | :--- | :--- | :--- | :--- |
-| 1 | Nguyễn Hải Long | [23810310057] | Trưởng nhóm. Thiết kế giao diện bằng Spectra, tùy biến CSS/PHP. |
-| 2 | Nguyễn Hoàng Đức | [23810310060] | [Nghiên cứu kiến trúc và chuẩn bị môi trường, Xây dựng chức năng thương mại điện tử] |
-| 3 | Nguyễn Văn Nghĩa | [23810310061] | [Quản trị hệ thống và cơ sở dữ liệu, deploy website lên Hosting InfinityFree] |
+| 1 | Nguyễn Hải Long | [23810310057] | Phụ trách nghiên cứu lý thuyết cơ bản (mã nguồn mở, PHP, MySQL) và thiết kế giao diện Front-end (Trang chủ, danh mục Shop, Chi tiết sản phẩm, trang Liên hệ bằng cách tùy biến Theme Astra) |
+| 2 | Nguyễn Hoàng Đức | [23810310060] | [Phụ trách nghiên cứu cấu trúc WordPress , cài đặt môi trường XAMPP và phát triển chức năng Thương mại điện tử (Giỏ hàng, trang Checkout, tích hợp Plugin WooCommerce và mã VietQR thanh toán nhanh)] |
+| 3 | Nguyễn Văn Nghĩa | [23810310061] | [Phụ trách quản trị hệ thống, dữ liệu (tạo DB, cấu hình Menu, quản trị sản phẩm) , triển khai website lên Hosting trực tuyến (InfinityFree) , đồng thời tổng hợp nội dung và hoàn thiện file báo cáo] |
 
 
 ## 🛠️ Công nghệ sử dụng
