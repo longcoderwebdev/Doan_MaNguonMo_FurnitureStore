@@ -8,7 +8,20 @@ wp-config.php
 # Bỏ qua thư mục chứa ảnh upload (để source code nhẹ)
 wp-content/uploads/
 
+# Bỏ qua các file backup
+wp-content/ai1wm-backups/
+wp-content/backups-dup-lite/
+
+# Bỏ qua file nén
+wp-content/themes/astra-child.zip
+wp-content/uploads.zip
+
 # Bỏ qua các file hệ thống máy chủ
 .htaccess
 error_log   
 .DS_Store
+Thumbs.db
+
+# Bỏ qua thư mục IDE
+.vscode/
+.idea/
