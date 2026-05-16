@@ -9,8 +9,8 @@ Website được thiết kế với giao diện trực quan, sang trọng (Dark 
 | STT | Họ và Tên | MSSV | Phân công nhiệm vụ cụ thể |
 | :--- | :--- | :--- | :--- |
 | 1 | Nguyễn Hải Long | [23810310057] | Trưởng nhóm. Thiết kế giao diện bằng Spectra, tùy biến CSS/PHP. |
-| 2 | [Nguyễn Hoàng Đức] | [23810310060] | [Nghiên cứu kiến trúc và chuẩn bị môi trường, Xây dựng chức năng thương mại điện tử] |
-| 3 | [Nguyễn Văn Nghĩa] | [23810310061] | [Quản trị hệ thống và cơ sở dữ liệu, deploy website lên Hosting InfinityFree] |
+| 2 | Nguyễn Hoàng Đức | [23810310060] | [Nghiên cứu kiến trúc và chuẩn bị môi trường, Xây dựng chức năng thương mại điện tử] |
+| 3 | Nguyễn Văn Nghĩa | [23810310061] | [Quản trị hệ thống và cơ sở dữ liệu, deploy website lên Hosting InfinityFree] |
 
 
 ## 🛠️ Công nghệ sử dụng
